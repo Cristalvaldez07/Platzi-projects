@@ -61,6 +61,8 @@ Type= atributo de una etiqueta
 
 En JavaScript tenemos funciones especiales que manipulan numeros una de esas funciones se llama parseInt, esta me permite redondear un numero con muchos decimales.
 
+# Obteniendo datos del usuario
 
-
+- Prompt(); es una función similar a alert(); pero esta nos muestra una caja rellenable de información.
+- ParseFloat(); es para obtener valores con decimales.
 
