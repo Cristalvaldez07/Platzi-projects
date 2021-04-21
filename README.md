@@ -115,7 +115,10 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - El ciclo Infinito sucede cuando se invoca a un ciclo sin determinar una condición limitante, el ciclo se repite infinitamente.
 - Un ciclo DO WHILE ejecuta una secuencia especificada hasta que se cumpla una condición determinada que actúa de limitante, como primero se ejecuta la sentencia y luego se evalúa la condición, este se ejecuta como mínimo una vez.
 
+# Eventos y Formularios en HTML y JavaScript
 
+- Los eventos son funciones que suceden cuando algo ocurre,  sucesos cómo un click, pulsar una tecla, colocar el mouse sobre un botón, etc.
+- 
 
   
 
