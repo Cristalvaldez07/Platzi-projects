@@ -75,6 +75,15 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 * if(): Sí
 * else: Sí no
 * else if(): Sí no, sí
-* 
+  
+# El DOM: nuestro lugar de trabajo en la web
+
+- Objectos: son nombres especiales que tienen por dentro: funciones, atributos, variables y entre otros.
+- Navigator: Contiene las funciones especiales del navegador y puedes acceder también al sistema operativo con este objeto.
+- Window: Maneja las ventanas y tabs del navegador.
+- Document: Contiene todos los elementos que se encuentran dentro de una página web. Controla internamente cada componente visual con el que los usuarios interactúan.
+- DOM (Document Object Model): es la forma en que internamente el navegador organiza todo el HTML dentro de una estructura de árbol.
+  
+  
 
 
