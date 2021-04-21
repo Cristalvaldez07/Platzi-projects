@@ -57,5 +57,8 @@ document.write = Escribe una cadena de texto
 <Doctype html> = estandar de html 5
 Type= atributo de una etiqueta
 
+# Peso en otro planeta
+
+En JavaScript tenemos funciones especiales que manipulan numeros una de esas funciones se llama parseInt, esta me permite redondear un numero con muchos decimales.
 
 
