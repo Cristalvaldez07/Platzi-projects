@@ -43,18 +43,18 @@ var x;
 
 # HTML, CSS, JavaScript de verdad
 
-<strong> = Negrita
-<p> = Parrafo
+strong = Negrita
+p= Parrafo
 Estructura principal = <html>
-<head> = Cabezera
-<title> = titulo
-<body> = cuerpo
-<style> = estilo
+head = Cabezera
+title = titulo
+body = cuerpo
+style = estilo
 background color: = Fondo
 Font-Family = fuente
-<script> = Para ejecutar funciones
+script = Para ejecutar funciones
 document.write = Escribe una cadena de texto
-<Doctype html> = estandar de html 5
+Doctype html = estandar de html 5
 Type= atributo de una etiqueta
 
 # Peso en otro planeta
@@ -91,7 +91,7 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 
 # Dibujando en el DOM
 
-- <CANVAS> = etiqueta de dibujo
+- canvas = etiqueta de dibujo
 - getContext: es un método del objeto Canvas que obtiene el área dónde se va a dibujar.
 - beginPath: un método que inicia un trazo.
 - strokeStyle: variable para guardar el color de la línea.
@@ -100,7 +100,7 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - stroke: función que dibuja la línea con un estilo especificado.
 - closePath: cierra el camino del trazo, es como levantar el lápiz.
   
-  
+
 
 
 
