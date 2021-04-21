@@ -118,7 +118,15 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 # Eventos y Formularios en HTML y JavaScript
 
 - Los eventos son funciones que suceden cuando algo ocurre,  sucesos cómo un click, pulsar una tecla, colocar el mouse sobre un botón, etc.
-- 
+  
+# Detectar eventos del teclado con JavaScript
+
+- Podemos hacer que nuestro dibujo reaccione al teclado.
+- Ctrl+Shift+I => Abre la ventana inspect (inspeccionar)
+- SWITCH es una estructura de control generalmente utilizada para evitar el uso excesivo de IF anidados, haciendo de este modo un código más limpio y fácil de leer.
+- Si tenemos constantes o variables que no van a cambiar usamos MAYUSCULAS para hacerlo notar.
+- Eventos aprendidos: keyup y keydown.
+
 
   
 
