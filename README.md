@@ -66,3 +66,15 @@ En JavaScript tenemos funciones especiales que manipulan numeros una de esas fun
 - Prompt(); es una función similar a alert(); pero esta nos muestra una caja rellenable de información.
 - ParseFloat(); es para obtener valores con decimales.
 
+# Flujo y condicionales
+
+Las condicionales manejan una condición para distinguir entre una opción u otra. 
+
+* =: asignación.
+* ==: comparación.
+* if(): Sí
+* else: Sí no
+* else if(): Sí no, sí
+* 
+
+
