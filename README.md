@@ -43,19 +43,19 @@ var x;
 
 # HTML, CSS, JavaScript de verdad
 
-strong = Negrita
-p= Parrafo
-Estructura principal = <html>
-head = Cabezera
-title = titulo
-body = cuerpo
-style = estilo
-background color: = Fondo
-Font-Family = fuente
-script = Para ejecutar funciones
-document.write = Escribe una cadena de texto
-Doctype html = estandar de html 5
-Type= atributo de una etiqueta
+- strong = Negrita
+- p= Parrafo
+- Estructura principal = <html>
+- head = Cabezera
+- title = titulo
+- body = cuerpo
+- style = estilo
+- background color: = Fondo
+- Font-Family = fuente
+- script = Para ejecutar funciones
+- document.write = Escribe una cadena de texto
+- Doctype html = estandar de html 5
+- Type= atributo de una etiqueta
 
 # Peso en otro planeta
 
