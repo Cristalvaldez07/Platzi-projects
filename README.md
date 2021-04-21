@@ -62,3 +62,5 @@ Type= atributo de una etiqueta
 En JavaScript tenemos funciones especiales que manipulan numeros una de esas funciones se llama parseInt, esta me permite redondear un numero con muchos decimales.
 
 
+
+
