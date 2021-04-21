@@ -45,7 +45,7 @@ var x;
 
 - strong = Negrita
 - p= Parrafo
-- Estructura principal = <html>
+- Estructura principal = html
 - head = Cabezera
 - title = titulo
 - body = cuerpo
@@ -99,6 +99,16 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - lineTo: traza una línea hasta las coordenadas especificadas.
 - stroke: función que dibuja la línea con un estilo especificado.
 - closePath: cierra el camino del trazo, es como levantar el lápiz.
+
+# Funciones en JavaScript
+
+- Funciones = Son herramientas utilizadas en cualquier lenguaje, con la finalidad de reutilizar código, con lo cual se evita reescribir varias veces el código, en el caso que un cierto bloqyue del mismo deba repetirse en varias secciones del código.
+- Dentro de una función se pueden crear y utilizar variables locales, es decir, se crean, utilizan y destruyen dentro de la función, esto se logra pasando a la función como parámetros del mismo según lo que necesite la función.
+* Ejemplo: 
+  function nombreFuncion(parametros) {
+ //Código que ejecuta la función
+}
+
   
 
 
