@@ -1,10 +1,30 @@
-var d = document.getElementById("dibujito");
+var d = document.getElementById('dibujito');
 var lienzo = d.getContext("2d");
-console.log(lienzo);
+var lineas = 30
+var l = 0;
+var yi, xf;
 
-lienzo.beginPath ();
-lienzo.strokeStyle= "red";
-lienzo.moveTo(100,100);
-lienzo.lineTo(200,200);
+for (l ; l< lineas; l++) 
+ 	
+{
+	yi= 10 * l
+	xf = 10 * (l + 1)
+	dibujarLinea ("#DADADA", 150, 0, xf, 150)
+	dibujarLinea ("#DADADA", 150, 300, xf, 150)
+	dibujarLinea ("#DADADA", 150, 300, xf, 150)
+	dibujarLinea ("#DADADA", 0, 150, 150, yi)
+	dibujarLinea ("#DADADA", 300, 150, 150, yi)
+
+	console.log ("linea" + l)
+}
+
+function dibujarLinea (color,xinicia,yinicial,xfinal,yfinal)
+
+{
+lienzo.beginPath();
+lienzo.strokeStyle = color;
+lienzo.moveTo(xinicia,yinicial);
+lienzo.lineTo(xfinal,yfinal);
 lienzo.stroke();
 lienzo.closePath();
+}

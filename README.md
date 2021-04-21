@@ -109,6 +109,14 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
  //Código que ejecuta la función
 }
 
+# Ciclos while y for en JavaScript
+
+- Los ciclos son piezas de código que se repiten hasta que se cumple una condición.
+- El ciclo Infinito sucede cuando se invoca a un ciclo sin determinar una condición limitante, el ciclo se repite infinitamente.
+- Un ciclo DO WHILE ejecuta una secuencia especificada hasta que se cumpla una condición determinada que actúa de limitante, como primero se ejecuta la sentencia y luego se evalúa la condición, este se ejecuta como mínimo una vez.
+
+
+
   
 
 
