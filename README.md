@@ -89,6 +89,17 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - Métodos: funciones dentro de un objeto
 - Atributo o propiedad: variables internas que almacenan valores
 
+# Dibujando en el DOM
+
+- <CANVAS> = etiqueta de dibujo
+- getContext: es un método del objeto Canvas que obtiene el área dónde se va a dibujar.
+- beginPath: un método que inicia un trazo.
+- strokeStyle: variable para guardar el color de la línea.
+- moveTo: método para mover el lápiz desde dónde va a dibujar la línea en las coordenadas especificadas.
+- lineTo: traza una línea hasta las coordenadas especificadas.
+- stroke: función que dibuja la línea con un estilo especificado.
+- closePath: cierra el camino del trazo, es como levantar el lápiz.
+  
   
 
 
