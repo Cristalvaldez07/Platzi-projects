@@ -83,7 +83,13 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - Window: Maneja las ventanas y tabs del navegador.
 - Document: Contiene todos los elementos que se encuentran dentro de una página web. Controla internamente cada componente visual con el que los usuarios interactúan.
 - DOM (Document Object Model): es la forma en que internamente el navegador organiza todo el HTML dentro de una estructura de árbol.
+
+# Window y Document:
+
+- Métodos: funciones dentro de un objeto
+- Atributo o propiedad: variables internas que almacenan valores
+
   
-  
+
 
 
