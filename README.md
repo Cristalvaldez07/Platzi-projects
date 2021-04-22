@@ -149,7 +149,13 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - Debemos usar el método .drawImage del canvas para insertar la imagen.
 - Canvas dibuja siempre encima del último objeto.
 - Debemos esperar que la imagen cargue antes de insertarla en canvas.
-- 
+
+# División, módulo y residuo en JavaScript
+
+- Para calcular el módulo puedes usar %
+- Los programas dividen los programas complejos en problemas pequeños
+- La operación lógica and (y) se escribe en JavaScript con &&
+  
 
 
 
