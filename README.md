@@ -179,7 +179,7 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 
 # Modelo Cliente/Servidor
 
-- Cliente: Es el navegador que abre tu archivo HTML o JS
+- Cliente: Es el navegador que abre tu archivo HTML o JS.
 - El Backend actúa como contraseña de los datos de los demás usuarios, pero si el Frontend no tiene Backend los datos de los demas usuarios estarán expuestos a accederse.
 - Servidor: Software que se encarga de hacer que corran todo el código Backend en el DB, así como un navegador hace lo mismo con el código Frontend, toma la url ingresada, procesa internamente la petición y devuelve los resultados.
 - Puertos: son los canales utilizados para el intercambio de información, es completamente personalizable.
@@ -187,21 +187,32 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - POST: Es enviar datos a través de formularios, colocando los datos por debajo de la URL, a modo de ocultar los datos evitando su hackeo.
 - Socket: Opción para transmitir datos cliente/servidor en tiempo real.
 
-* Las tecnologías utilizadas en aplicaciones web son: 
-- Bases de datos, MySQL es una base de datos relacionales y MongoDB es una base de datos no relacional
-- Backend, existen muchos lenguajes que puedes usar cómo Python, Ruby, JavaScript
-- Servidores, existen tecnologías como NGINX, Apache, Node
-- Frontend, son las tecnologías que corren en el navegador, HTML, CSS y JavaScript
-- A un grupo de tecnologías se les conoce como Stack
-  
-* SERVIDORES CON PUERTO:
+  ### Las tecnologías utilizadas en aplicaciones web son: 
+- Bases de datos, MySQL es una base de datos relacionales y MongoDB es una base de datos no relacional.
+- Backend, existen muchos lenguajes que puedes usar cómo Python, Ruby, JavaScript.
+- Servidores, existen tecnologías como NGINX, Apache, Node.
+- Frontend, son las tecnologías que corren en el navegador, HTML, CSS y JavaScript.
+- A un grupo de tecnologías se les conoce como Stack.
+  ### SERVIDORES CON PUERTO:
 - Nginx
 - Apache 
 - NodeJS
-  
-* FRONTEND:
+### FRONTEND:
 - Html 
 - CSS 
 - JS
+
+# Primer servidor web con express
+
+- $ indica que hay una terminal.
+- Un framework es un conjunto de funcionalidades empaquetadas para poder realizar cosas.
+- Un servidor es un ordenador encargado de suministrar información a una serie de clientes, que pueden ser tanto personas como otros dispositivos conectados a él.
+- IP: Es el numero que identifica a un dispositivo en una red interna o externa.
+- NPM: Sistema que ayuda a Node a instalar Librerías.
+- Require: Es una función que busca dentro del equipo las dependencias pertenecientes a Express y las almacena en la instancia creada para el efecto.
+- El punto y coma “;” en la programación con JS es opcional.
+- Request: Petición realizada al servidor. 
+- Response: Respuesta del Servidor al Request enviado.
+  
 
 
