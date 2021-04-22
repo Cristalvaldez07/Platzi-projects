@@ -1,6 +1,6 @@
 # Mi primera línea de código (NOTE)
 
-- alert( ) > Sirve para disparar un mensaje en la pantalla del navegador.
+- alert( ) =  Sirve para disparar un mensaje en la pantalla del navegador.
   
 # ¿Qué es HTML/CSS/JS?
 
@@ -156,7 +156,16 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - Los programas dividen los programas complejos en problemas pequeños
 - La operación lógica and (y) se escribe en JavaScript con &&
   
+# Clases y Arrays en JavaScript
 
-
+- Las clases son la definición de los objetos
+- Array: Es como si una variable tuviera cajitas. 
+- Constructor: Es un método llamado en el momento de la creación de instancias.
+- Herencia: Una Clase puede heredar características de otra Clase.
+- Encapsulamiento: Una Clase sólo define las características del Objeto, un Método sólo define cómo se ejecuta el Método.
+- Abstracción: La conjunción de herencia compleja, métodos y propiedades que un objeto debe ser capaz de simular en un modelo de la realidad.
+- Polimorfismo: Diferentes Clases podrían definir el mismo método o propiedad.
+- El in y el of te sirve para recorrer un objeto por dentro y en ocasiones para recorrer arrays que no conocemos.
+  
 
 
