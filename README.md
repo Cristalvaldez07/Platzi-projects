@@ -174,5 +174,6 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 
 # Implementación del Cajero Automático
 
-
+- Document.write es una mala práctica.
+- Una alternativa mas ventajosa es innerHTML.
 
