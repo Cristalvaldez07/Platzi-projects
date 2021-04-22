@@ -12,12 +12,15 @@ var teclas = {
   var colorInicial = "red";
   var colorParedes = "skyblue";
   var colorcito = "#FAA";
+  
 
   dibujarLinea(colorInicial, x - 1, y - 1, x + 1, y + 1);
   dibujarLinea("skyblue", 0, 0, 0, 300); 
   dibujarLinea("skyblue", 300, 0, 300, 300); 
   dibujarLinea("skyblue", 0, 0, 300, 0); 
   dibujarLinea("skyblue", 0, 300, 300, 300); 
+  
+  
   
   function dibujarTeclado(evento) {
     var movimiento = 10;
@@ -59,4 +62,3 @@ var teclas = {
     lienzo.stroke();
     lienzo.closePath();
   }
-  

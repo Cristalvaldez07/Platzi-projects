@@ -2,7 +2,7 @@
 
 - alert( ) > Sirve para disparar un mensaje en la pantalla del navegador.
   
-  # ¿Qué es HTML/CSS/JS?
+# ¿Qué es HTML/CSS/JS?
 
 - HTML es el lenguaje donde se define la información o el contenido del documento, el formato de los archivos es .html
 - CSS es el lenguaje donde se especifica el diseño del documento, maneja todo lo relacionado con la parte visual, el formato de los archivos es .css
@@ -127,8 +127,29 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - Si tenemos constantes o variables que no van a cambiar usamos MAYUSCULAS para hacerlo notar.
 - Eventos aprendidos: keyup y keydown.
 
+# Dibujar en canvas con las flechas del teclado
 
+- Continuacion de aprendiendo a dibujar con Canvas.
+
+# Funciones matemáticas y números aleatorios en JavaScript
+
+- Math.floor() devuelve el número entero por debajo de los decimales.
+- Math.ceil() devuelve el siguiente número entero arriba de los decimales
+- Math.random() devuelve un número aleatorio de 0 a 0.999.
+- Tile así se denomina la parte gráfica sobre la que se hace un video juego.
+- Los números aleatorios en Javascript son decimales.
+- La sentencia return finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función.
+- Variables Locales: variables creadas dentro de una función, solo pueden ser accedidas desde dentro de la función.
+- Variables Globales: podemos acceder a ellas desde cualquier parte del código.
   
+# Uso y carga de imágenes en Canvas 
+
+- En canvas puedes insertar imágenes.
+- Debemos agregar la imagen en el evento load del objeto.
+- Debemos usar el método .drawImage del canvas para insertar la imagen.
+- Canvas dibuja siempre encima del último objeto.
+- Debemos esperar que la imagen cargue antes de insertarla en canvas.
+- 
 
 
 
