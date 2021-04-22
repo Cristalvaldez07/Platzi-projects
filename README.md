@@ -167,5 +167,12 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - Polimorfismo: Diferentes Clases podrían definir el mismo método o propiedad.
 - El in y el of te sirve para recorrer un objeto por dentro y en ocasiones para recorrer arrays que no conocemos.
   
+# Diagrama de Flujo del Cajero Automático
+
+- Algoritmo: Conjunto de instrucciones realizadas en orden para solucionar un problema.
+- Diagrama de flujo:Un diagrama de flujo es un diagrama que describe un proceso, sistema o algoritmo informático.
+
+# Implementación del Cajero Automático
+
 
 
