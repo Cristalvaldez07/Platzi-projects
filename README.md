@@ -1,6 +1,8 @@
-# Mi primera línea de código (NOTE)
+# Apuntes y recordatorios de PLATZI.
 
-- alert( ) =  Sirve para disparar un mensaje en la pantalla del navegador.
+# Mi primera línea de código:
+
+- alert( ) : Sirve para disparar un mensaje en la pantalla del navegador.
   
 # ¿Qué es HTML/CSS/JS?
 
