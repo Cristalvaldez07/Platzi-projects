@@ -214,5 +214,52 @@ Las condicionales manejan una condición para distinguir entre una opción u otr
 - Request: Petición realizada al servidor. 
 - Response: Respuesta del Servidor al Request enviado.
   
+# ¿Cómo funciona un circuito electrónico?
+
+- Los circuitos electrónicos son la base de la tecnología moderna.
+- Electricidad: Son el flujo constante de electrones a través de un cable. Se mide en voltaje y amperaje 
+- Voltio: Intensidad con que la corriente se mueve por el cable.
+- Resistencia: Controla la intensidad de la corriente eléctrica, son medidas en Ohmios.
+- Circuito digital: Convierte la electricidad en 0 y 1.
+- Memoria RAM: Almacena los 0 y 1 mientras tenga energía
+- Discos Duros: Almacena los 0 y 1 aun sin energía
+- El movimiento se crea con un motor eléctrico (que por dentro son electroimanes, que roban sobre su propio eje), los motores pequeños (servos) suelen ser muy precisos.
+- La electricidad se vuelve sonido si se hace vibrar una membrana al ritmo de una honda eléctrica.
+- Es la forma mas poderosa de usar la electricidad con informacion (almacenar datos, operaciones matemáticas, etc),
+- Un circuito digital (cpu) convierte las hondas eléctricas en ceros (000…) y unos (111…), la memoria RAM guarda esos ceros y unos siempre que el circuito tenga energía, mientras que los discos duros los guardan con o sin energía.
+- Los ceros y unos se llaman bites y ocho de estos juntos son un byte, el procesador toma los bytes y los convierte en otros con instrucciones.
+* Los lenguajes encargados de dar las instrucciones son :
+- Assembler
+- Java
+- C++ 
+- C
+* Note
+- 1 byte = 1 caracter
+- 1 kilo byte = 1024 bytes
+- 1 megabyte = 1024 kilo bytes
+- 1 gigabyte = 1024 megabytes
+- 1 terabyte = 1024 gigabytes
+  
+# ¿Cómo programar un Arduino?
+
+- Lenguajes de Bajo Nivel : Lenguajes cuyas interpretaciones están mas cerca al lenguaje maquina permitiendo tener una mayor interacción y velocidad con el hardware ej: C , C++.
+- Lenguajes de Alto Nivel : Lenguajes con instrucciones mas fáciles de escribir y leer para una persona que requieren interpretes para convertirse en lenguaje maquina ej: Ruby , Python , JavaScript.
+- C: Es un lenguaje de bajo nivel lo puedes ver en el curso de algoritmos. De este lenguaje se derivan Java, Javascript, C#, unity 3D, etc.
+- Unity 3D: Funciona con JS o C#, puedes crear con el juegos como pokemon Go o juegos de VR. 
+- Java: Se parece a JS pero es de menos nivel.
+- Arduinos y Rasperry Pi: Son basicamente ordenadores muy pequeños que podemos programar desde 0. En arduino se programa con C.
+- No necesitamos tener un arduino para programar en arduino.
+  
+  # Programación de circuitos con C, Arduino y Sketch
+- Protoboard: Son formas en las que los cables estan organizados por dentro.
+- Arduino se programa en el lenguanje Sketch que se deriva de C.
+- El LED es un diodo y está formado por ánodo y cátodo, Ánodo se conecta a voltaje y Cátodo se conecta a tierra.
+- Ánodo: Parte positiva (+)
+- Cátodo: Parte negativa (-)
+- 
+  
+
+
+  
 
 
